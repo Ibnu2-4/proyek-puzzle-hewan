@@ -40,7 +40,7 @@ Klik tombol di bawah ini untuk mulai bermain:
 
 ---
 
-## 📸 Cuplikan Puzzle
+## 📸 Link Puzzle
 
 https://puzzel.org/en/jigsaw/play?p=-OOQvWGHXaKq5HYiQIG2
 
